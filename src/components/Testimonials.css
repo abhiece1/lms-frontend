@@ -1,0 +1,153 @@
+.testimonials {
+    padding: 4rem 2rem;
+    background: linear-gradient(135deg, #b72486 0%, #0e44a9 100%);
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    perspective: 1000px;
+  }
+  
+  .testimonials-container {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+  }
+  
+  .testimonial-background {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 20px;
+    box-shadow: 
+      0 10px 20px rgba(0, 0, 0, 0.1),
+      0 6px 6px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .testimonial-content {
+    position: relative;
+    transition: all 1s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  
+  .testimonial-card {
+    padding: 2rem;
+    text-align: center;
+    position: relative;
+  }
+  
+  .avatar {
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(45deg, #4a90e2, #63b3ed);
+    border-radius: 50%;
+    margin: 0 auto 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .quote-icon {
+    font-size: 4rem;
+    color: #4a90e2;
+    opacity: 0.2;
+    position: absolute;
+    top: -1rem;
+    left: 1rem;
+  }
+  
+  .bottom-quote {
+    top: auto;
+    left: auto;
+    bottom: -1rem;
+    right: 1rem;
+  }
+  
+  .student-name {
+    color: #2d3748;
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+  }
+  
+  .achievement {
+    color: #4a5568;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+  }
+  
+  .institute {
+    color: #4a90e2;
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-top: 1rem;
+  }
+  
+  /* Animations */
+  .slide-in {
+    animation: slideIn 1s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+  }
+  
+  .slide-out {
+    animation: slideOut 1s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+  }
+  
+  @keyframes slideIn {
+    0% {
+      opacity: 0;
+      transform: translateY(20px) rotateX(-10deg);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0) rotateX(0);
+    }
+  }
+  
+  @keyframes slideOut {
+    0% {
+      opacity: 1;
+      transform: translateY(0) rotateX(0);
+    }
+    100% {
+      opacity: 0;
+      transform: translateY(-20px) rotateX(10deg);
+    }
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .testimonials {
+      padding: 2rem 1rem;
+    }
+  
+    .testimonial-card {
+      padding: 1rem;
+    }
+  
+    .student-name {
+      font-size: 1.5rem;
+    }
+  
+    .achievement {
+      font-size: 1rem;
+    }
+  
+    .quote-icon {
+      font-size: 3rem;
+    }
+  }
+  
+  /* Optional: Add a subtle hover effect */
+  .testimonial-background:hover {
+    transform: translateY(-5px);
+    box-shadow: 
+      0 15px 30px rgba(0, 0, 0, 0.1),
+      0 8px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+  }
