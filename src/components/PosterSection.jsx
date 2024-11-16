@@ -20,80 +20,79 @@ const PosterSection = () => {
       description: 'Gain confidence by simulating the exam environment.'
     },
     {
-      icon: 'https://pngtree.com/so/analytics-icon',
+      icon: 'https://cdn-icons-png.flaticon.com/512/2857/2857369.png',
       title: 'Identify Weaknesses',
       description: 'Focus on the areas that need improvement.'
     },
     {
-      icon: {"static/img/time.png"},
+      icon:'https://cdn-icons-png.flaticon.com/512/3094/3094939.png',
       title: 'Time Management',
       description: 'Practice efficient time management in real exam conditions.'
     },
     {
-      icon: {"static/img/track.webp"},
+      icon: 'https://cdn-icons-png.flaticon.com/512/8684/8684801.png',
       title: 'Track Progress',
       description: 'Monitor your progress with detailed reports and analytics.'
     },
     {
-        icon: 'https://cdn-icons-png.flaticon.com/512/5828/5828162.png',
-        title: 'Boost Confidence',
-        description: 'Gain confidence by simulating the exam environment.'
-      },
-      {
-        icon: {"static/img/analytics icon.png"},
-        title: 'Identify Weaknesses',
-        description: 'Focus on the areas that need improvement.'
-      },
-      {
-        icon: {"static/img/time.png"},
-        title: 'Time Management',
-        description: 'Practice efficient time management in real exam conditions.'
-      },
-      {
-        icon: {"static/img/track.webp"},
-        title: 'Track Progress',
-        description: 'Monitor your progress with detailed reports and analytics.'
-      },
-      {
-        icon: 'https://cdn-icons-png.flaticon.com/512/5828/5828162.png',
-        title: 'Boost Confidence',
-        description: 'Gain confidence by simulating the exam environment.'
-      },
-      {
-        icon: {"static/img/analytics icon.png"},
-        title: 'Identify Weaknesses',
-        description: 'Focus on the areas that need improvement.'
-      },
-      {
-        icon: {"static/img/time.png"},
-        title: 'Time Management',
-        description: 'Practice efficient time management in real exam conditions.'
-      },
-      {
-        icon: {"static/img/track.webp"},
-        title: 'Track Progress',
-        description: 'Monitor your progress with detailed reports and analytics.'
-      },
-      {
-        icon: 'https://cdn-icons-png.flaticon.com/512/5828/5828162.png',
-        title: 'Boost Confidence',
-        description: 'Gain confidence by simulating the exam environment.'
-      },
-      {
-        icon: {"static/img/analytics icon.png"},
-        title: 'Identify Weaknesses',
-        description: 'Focus on the areas that need improvement.'
-      },
-      {
-        icon: {"static/img/time.png"},
-        title: 'Time Management',
-        description: 'Practice efficient time management in real exam conditions.'
-      },
-      {
-        icon: {"static/img/track.webp"},
-        title: 'Track Progress',
-        description: 'Monitor your progress with detailed reports and analytics.'
-      }
+      icon: 'https://cdn-icons-png.flaticon.com/512/5828/5828162.png',
+      title: 'Boost Confidence',
+      description: 'Gain confidence by simulating the exam environment.'
+    },
+    {
+      icon: 'https://cdn-icons-png.flaticon.com/512/2857/2857369.png',
+      title: 'Identify Weaknesses',
+      description: 'Focus on the areas that need improvement.'
+    },
+    {
+      icon:'https://cdn-icons-png.flaticon.com/512/3094/3094939.png',
+      title: 'Time Management',
+      description: 'Practice efficient time management in real exam conditions.'
+    },
+    {
+      icon: 'https://cdn-icons-png.flaticon.com/512/8684/8684801.png',
+      title: 'Track Progress',
+      description: 'Monitor your progress with detailed reports and analytics.'
+    },{
+      icon: 'https://cdn-icons-png.flaticon.com/512/5828/5828162.png',
+      title: 'Boost Confidence',
+      description: 'Gain confidence by simulating the exam environment.'
+    },
+    {
+      icon: 'https://cdn-icons-png.flaticon.com/512/2857/2857369.png',
+      title: 'Identify Weaknesses',
+      description: 'Focus on the areas that need improvement.'
+    },
+    {
+      icon:'https://cdn-icons-png.flaticon.com/512/3094/3094939.png',
+      title: 'Time Management',
+      description: 'Practice efficient time management in real exam conditions.'
+    },
+    {
+      icon: 'https://cdn-icons-png.flaticon.com/512/8684/8684801.png',
+      title: 'Track Progress',
+      description: 'Monitor your progress with detailed reports and analytics.'
+    },{
+      icon: 'https://cdn-icons-png.flaticon.com/512/5828/5828162.png',
+      title: 'Boost Confidence',
+      description: 'Gain confidence by simulating the exam environment.'
+    },
+    {
+      icon: 'https://cdn-icons-png.flaticon.com/512/2857/2857369.png',
+      title: 'Identify Weaknesses',
+      description: 'Focus on the areas that need improvement.'
+    },
+    {
+      icon:'https://cdn-icons-png.flaticon.com/512/3094/3094939.png',
+      title: 'Time Management',
+      description: 'Practice efficient time management in real exam conditions.'
+    },
+    {
+      icon: 'https://cdn-icons-png.flaticon.com/512/8684/8684801.png',
+      title: 'Track Progress',
+      description: 'Monitor your progress with detailed reports and analytics.'
+    }
+    
     
   ];
 
