@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
-import person from './../../img/person.png';
-import email from './../../img/email.png';
-import password from './../../img/password.png';
-import twitter from './../../img/twitter_icon.png';
-import facebook from './../../img/facebook_icon.png';
-import github from './../../img/github.png';
+import person from './../../public/static/img/person.png';
+import email from './../../public/static/img/email.png';
+import password from './../../public/static/img/password.png';
+import twitter from './../../public/static/img/twitter_icon.png';
+import facebook from './../../public/static/img/facebook_icon.png';
+import github from './../../public/static/img/github.png';
 import { BrowserRouter as Router, Route, Link, Routes, useNavigate } from "react-router-dom";
 import './Signup.css';
 
