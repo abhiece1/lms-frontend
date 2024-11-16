@@ -1,5 +1,5 @@
 # React + Vite
-Deployed link frontend - https://lms-frontend-eosin.vercel.app
+Deployed link frontend - https://lms-frontend-eosin.vercel.app                
 For backend refer to https://github.com/abhiece1/pro 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
