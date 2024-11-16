@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './PosterSection.css';
+import './Postersection.css';
 
 const PosterSection = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
