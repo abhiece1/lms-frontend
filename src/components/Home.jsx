@@ -53,7 +53,7 @@ const Home = () => {
                 <div className="flashcards-wrapper" id="cards" >
 
                     <div className="test-card">
-                        <img src="./../../img/maths.jpg" alt="Math Test" className="test-image" />
+                        <img src={"static/img/maths.jpg"} alt="Math Test" className="test-image" />
                         <div className="test-content">
                             <h3>MATHEMATICS</h3>
                             <p>Previous year questions covering Algebra, Geometry, and more.</p>
@@ -61,7 +61,7 @@ const Home = () => {
                         </div>
                     </div>
                     <div className="test-card">
-                        <img src="./../../img/physics.jpg" alt="Physics Test" className="test-image" />
+                        <img src={"static/img/physics.jpg"} alt="Physics Test" className="test-image" />
                         <div className="test-content">
                             <h3>PHYSICS</h3>
                             <p>Improve your score in every topic of Physics through these previous year questions</p>
@@ -69,7 +69,7 @@ const Home = () => {
                         </div>
                     </div>
                     <div className="test-card">
-                        <img src="./../../img/chemistry_icon.jpg" alt="Chemistry Test" className="test-image" />
+                        <img src={"static/img/chemistry_icon.jpg"} alt="Chemistry Test" className="test-image" />
                         <div className="test-content">
                             <h3>CHEMISTRY</h3>
                             <p>Contains previous year questions on physical, organic as well as inorganic chemistry</p>

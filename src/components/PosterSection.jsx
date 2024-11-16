@@ -1,5 +1,9 @@
 import React, { useState, useEffect } from 'react';
+<<<<<<< HEAD
+import '../components/PosterSection.css';
+=======
 import './Postersection.css';
+>>>>>>> d53f39057269021c9c0bbd085866a5caea49294a
 
 const PosterSection = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -19,17 +23,17 @@ const PosterSection = () => {
       description: 'Gain confidence by simulating the exam environment.'
     },
     {
-      icon: './../../img/analytics icon.png',
+      icon: './../../public/static/img/analytics icon.png',
       title: 'Identify Weaknesses',
       description: 'Focus on the areas that need improvement.'
     },
     {
-      icon: './../../img/time.png',
+      icon: './../../public/static/img/time.png',
       title: 'Time Management',
       description: 'Practice efficient time management in real exam conditions.'
     },
     {
-      icon: './../../img/track.webp',
+      icon: './../../public/static/img/track.webp',
       title: 'Track Progress',
       description: 'Monitor your progress with detailed reports and analytics.'
     },
@@ -39,17 +43,17 @@ const PosterSection = () => {
         description: 'Gain confidence by simulating the exam environment.'
       },
       {
-        icon: './../../img/analytics icon.png',
+        icon: './../../public/static/img/analytics icon.png',
         title: 'Identify Weaknesses',
         description: 'Focus on the areas that need improvement.'
       },
       {
-        icon: './../../img/time.png',
+        icon: './../../public/static/img/time.png',
         title: 'Time Management',
         description: 'Practice efficient time management in real exam conditions.'
       },
       {
-        icon: './../../img/track.webp',
+        icon: './../../public/static/img/track.webp',
         title: 'Track Progress',
         description: 'Monitor your progress with detailed reports and analytics.'
       },
@@ -59,17 +63,17 @@ const PosterSection = () => {
         description: 'Gain confidence by simulating the exam environment.'
       },
       {
-        icon: './../../img/analytics icon.png',
+        icon: './../../public/static/img/analytics icon.png',
         title: 'Identify Weaknesses',
         description: 'Focus on the areas that need improvement.'
       },
       {
-        icon: './../../img/time.png',
+        icon: './../../public/static/img/time.png',
         title: 'Time Management',
         description: 'Practice efficient time management in real exam conditions.'
       },
       {
-        icon: './../../img/track.webp',
+        icon: './../../public/static/img/track.webp',
         title: 'Track Progress',
         description: 'Monitor your progress with detailed reports and analytics.'
       },
@@ -79,17 +83,17 @@ const PosterSection = () => {
         description: 'Gain confidence by simulating the exam environment.'
       },
       {
-        icon: './../../img/analytics icon.png',
+        icon: './../../public/static/img/analytics icon.png',
         title: 'Identify Weaknesses',
         description: 'Focus on the areas that need improvement.'
       },
       {
-        icon: './../../img/time.png',
+        icon: './../../public/static/img/time.png',
         title: 'Time Management',
         description: 'Practice efficient time management in real exam conditions.'
       },
       {
-        icon: './../../img/track.webp',
+        icon: './../../public/static/img/track.webp',
         title: 'Track Progress',
         description: 'Monitor your progress with detailed reports and analytics.'
       }
