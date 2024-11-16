@@ -20,7 +20,7 @@ const PosterSection = () => {
       description: 'Gain confidence by simulating the exam environment.'
     },
     {
-      icon: {"static/img/analytics icon.png"},
+      icon: 'https://pngtree.com/so/analytics-icon',
       title: 'Identify Weaknesses',
       description: 'Focus on the areas that need improvement.'
     },
