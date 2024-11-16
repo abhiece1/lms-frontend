@@ -20,17 +20,17 @@ const PosterSection = () => {
       description: 'Gain confidence by simulating the exam environment.'
     },
     {
-      icon: './../../public/static/img/analytics icon.png',
+      icon: {"static/img/analytics icon.png"},
       title: 'Identify Weaknesses',
       description: 'Focus on the areas that need improvement.'
     },
     {
-      icon: './../../public/static/img/time.png',
+      icon: {"static/img/time.png"},
       title: 'Time Management',
       description: 'Practice efficient time management in real exam conditions.'
     },
     {
-      icon: './../../public/static/img/track.webp',
+      icon: {"static/img/track.webp"},
       title: 'Track Progress',
       description: 'Monitor your progress with detailed reports and analytics.'
     },
@@ -40,17 +40,17 @@ const PosterSection = () => {
         description: 'Gain confidence by simulating the exam environment.'
       },
       {
-        icon: './../../public/static/img/analytics icon.png',
+        icon: {"static/img/analytics icon.png"},
         title: 'Identify Weaknesses',
         description: 'Focus on the areas that need improvement.'
       },
       {
-        icon: './../../public/static/img/time.png',
+        icon: {"static/img/time.png"},
         title: 'Time Management',
         description: 'Practice efficient time management in real exam conditions.'
       },
       {
-        icon: './../../public/static/img/track.webp',
+        icon: {"static/img/track.webp"},
         title: 'Track Progress',
         description: 'Monitor your progress with detailed reports and analytics.'
       },
@@ -60,17 +60,17 @@ const PosterSection = () => {
         description: 'Gain confidence by simulating the exam environment.'
       },
       {
-        icon: './../../public/static/img/analytics icon.png',
+        icon: {"static/img/analytics icon.png"},
         title: 'Identify Weaknesses',
         description: 'Focus on the areas that need improvement.'
       },
       {
-        icon: './../../public/static/img/time.png',
+        icon: {"static/img/time.png"},
         title: 'Time Management',
         description: 'Practice efficient time management in real exam conditions.'
       },
       {
-        icon: './../../public/static/img/track.webp',
+        icon: {"static/img/track.webp"},
         title: 'Track Progress',
         description: 'Monitor your progress with detailed reports and analytics.'
       },
@@ -80,17 +80,17 @@ const PosterSection = () => {
         description: 'Gain confidence by simulating the exam environment.'
       },
       {
-        icon: './../../public/static/img/analytics icon.png',
+        icon: {"static/img/analytics icon.png"},
         title: 'Identify Weaknesses',
         description: 'Focus on the areas that need improvement.'
       },
       {
-        icon: './../../public/static/img/time.png',
+        icon: {"static/img/time.png"},
         title: 'Time Management',
         description: 'Practice efficient time management in real exam conditions.'
       },
       {
-        icon: './../../public/static/img/track.webp',
+        icon: {"static/img/track.webp"},
         title: 'Track Progress',
         description: 'Monitor your progress with detailed reports and analytics.'
       }
